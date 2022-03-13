@@ -1,4 +1,5 @@
 #include <iostream>
+using namespace std;
 
 int main(){
 float a=0; float b=0; float c=0;
